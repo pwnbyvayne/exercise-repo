@@ -1,5 +1,5 @@
 # exercise-repo
-added some extra lines of code.
-this will resolve the conflict.
+this project will have some extras.
+repo for extra coding.
 
 
